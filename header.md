@@ -1,1 +1,0 @@
-Cette documentation a été générée grâce à [apiDocJS](http://apidocjs.com/).
